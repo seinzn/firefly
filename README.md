@@ -50,4 +50,5 @@
 
 如对本隐私政策有任何疑问，请通过以下方式联系：
 
+- 邮箱：oskar7@qq.com
 - GitHub Issues: [https://github.com/seinzn/firefly/issues](https://github.com/seinzn/firefly/issues)
